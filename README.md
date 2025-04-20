@@ -1,2 +1,2 @@
 # Programacion-
-Subo los trabajos prafticos
+Subo los trabajos practicos
